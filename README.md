@@ -1,18 +1,26 @@
-# Student Management System
+🎓 Student Management System
 
-## Description
-A simple Java console application to manage student records.
+    📌 Project Description
+Student Management System is a simple Java console application that helps users manage student records efficiently. It allows users to add, view, search, update, and delete student details using Object-Oriented Programming concepts.
 
-## Features
-- Add Student
-- View Student
-- Search Student
-- Update Student
-- Delete Student
+   ✨ Features
+➕ Add Student
+📋 View All Students
+🔍 Search Student
+✏️ Update Student
+❌ Delete Student
+🚪 Exit Application
 
-## Technologies Used
+  🛠️ Technologies Used
 - Java
-- VS Code
+- OOP (Object-Oriented Programming)
+- ArrayList
+- Scanner
 
-## Author
-Pritam Kumar Jena
+  ▶️ How to Run
+1. Compile the Java files.
+2. Run the `Main.java` file.
+3. Follow the menu to manage student records.
+
+     👨‍💻 Author
+**Pritam Kumar Jena**
